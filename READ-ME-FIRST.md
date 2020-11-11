@@ -18,17 +18,17 @@ I have set up 4 files
 - 3)JAVASCRIPT.md
 - 4)OTHER.md
 
-- try to add the resource to the file you think it best fits in.
+1)Try to add the resource to the file you think it best fits in.
 
-- if you are adding a link please add a brief description as to what the link is for.
+2)If you are adding a link please add a brief description as to what the link is for.
 
-- try to ensure that you are not posting a duplicate resource.
+3)Try to ensure that you are not posting a duplicate resource.
 
-- lastly seperate entries with a row of asterisks* to help keep it readable.
+$)Lastly seperate entries with a row of asterisks* to help keep it readable.
 
 
 
-If anyone is willing to help maintain the resource list please feel free to let me know!
+If anyone is willing to help maintain the resource list please feel free to let me know via DM on discord (@Imran Mohamed)!
 
 Happy Sharing!
 
