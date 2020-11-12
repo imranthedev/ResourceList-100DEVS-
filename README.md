@@ -35,8 +35,7 @@ I have set up 4 files
    Then hit propose changes.
 
 
-If anyone is willing to help maintain the resource list please feel free to let me know via DM on discord (@Imran Mohamed)!
-
 Happy Sharing!
 
+If anyone is willing to help maintain the resource list please feel free to let me know via DM on discord (@Imran Mohamed)!
 
