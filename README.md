@@ -1,5 +1,5 @@
 # ResourceList-100DEVS-
-A centralised lis of resources for and/or from the 100Devs.
+A centralised list of resources for and/or from the 100Devs.
 ************************************************************
 
 Hello Fellow Devs,
