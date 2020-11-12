@@ -20,12 +20,19 @@ I have set up 4 files
 
 1) Try to add the resource to the file you think it best fits in.
 
-2) If you are adding a link please add a brief description as to what the link is for.
+2) To add to the list select a file and click on the pencil icon to edit the file
 
-3) Try to ensure that you are not posting a duplicate resource.
+3) If you are adding a link please add a brief description as to what the link is for.
 
-4) Lastly seperate entries with a row of asterisks* to help keep it readable.
+4) Try to ensure that you are not posting a duplicate resource.
 
+5) Seperate entries with a row of asterisks* to help keep it readable.
+
+6) Lastly when adding changes select the second option that says:
+
+     Create a new branch for this commit and start a pull request. Learn more about pull requests.
+ 
+   Then hit propose changes.
 
 
 If anyone is willing to help maintain the resource list please feel free to let me know via DM on discord (@Imran Mohamed)!
