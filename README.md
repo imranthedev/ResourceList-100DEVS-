@@ -13,10 +13,10 @@ Please take the time to read the contribution guidelines set out in the other fi
 And please try to follow the following convention when adding a resource:
 
 I have set up 4 files
-- 1)HTML.md 
-- 2)CSS.md 
-- 3)JAVASCRIPT.md
-- 4)OTHER.md
+- HTML.md 
+- CSS.md 
+- JAVASCRIPT.md
+- OTHER.md
 
 1)Try to add the resource to the file you think it best fits in.
 
