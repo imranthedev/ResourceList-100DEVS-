@@ -18,13 +18,13 @@ I have set up 4 files
 - JAVASCRIPT.md
 - OTHER.md
 
-1)Try to add the resource to the file you think it best fits in.
+1) Try to add the resource to the file you think it best fits in.
 
-2)If you are adding a link please add a brief description as to what the link is for.
+2) If you are adding a link please add a brief description as to what the link is for.
 
-3)Try to ensure that you are not posting a duplicate resource.
+3) Try to ensure that you are not posting a duplicate resource.
 
-$)Lastly seperate entries with a row of asterisks* to help keep it readable.
+4) Lastly seperate entries with a row of asterisks* to help keep it readable.
 
 
 
