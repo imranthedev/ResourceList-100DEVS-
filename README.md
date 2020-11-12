@@ -8,9 +8,9 @@ I've been thinking of a way to keep track of all the awesome resources we are co
 
 I think a centralised list will help everyone as its a one stop shop and can be updated by anyone(as such please be mindful).
 
-Please take the time to read the contribution guidelines set out in the other file aptly named contribution guide.
+## Please take the time to read the code of conduct file  and the contribution guidelines set out below.
 
-And please try to follow the following convention when adding a resource:
+Please try to follow the following convention when adding a resource:
 
 I have set up 4 files
 - HTML.md 
