@@ -10,13 +10,13 @@ I think a centralised list will help everyone as its a one stop shop and can be 
 
 ## Please take the time to read the code of conduct file  and the contribution guidelines set out below.
 
+
+There are a number of files that have now been created in order to make finding resources easy
+
+
 Please try to follow the following convention when adding a resource:
 
-I have set up 4 files
-- HTML.md 
-- CSS.md 
-- JAVASCRIPT.md
-- OTHER.md
+
 
 1) Try to add the resource to the file you think it best fits in.
 
