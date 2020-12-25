@@ -5,7 +5,7 @@ A list of free and paid resources for website templates.
 - https://html5up.net/
 - https://templated.co/
 - https://carrd.co/
-- https://templated.co/
+
 **************************
 ### Paid Templates
 - https://wrapbootstrap.com/
